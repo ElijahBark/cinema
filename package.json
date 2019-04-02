@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://elijahbark.github.io/cinema/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.8.6",
