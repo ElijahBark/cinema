@@ -1,0 +1,13 @@
+{
+  "main.css": "/cinema/static/css/main.b50da3af.chunk.css",
+  "main.js": "/cinema/static/js/main.e6962f67.chunk.js",
+  "main.js.map": "/cinema/static/js/main.e6962f67.chunk.js.map",
+  "runtime~main.js": "/cinema/static/js/runtime~main.069b81f7.js",
+  "runtime~main.js.map": "/cinema/static/js/runtime~main.069b81f7.js.map",
+  "static/js/2.827c1f48.chunk.js": "/cinema/static/js/2.827c1f48.chunk.js",
+  "static/js/2.827c1f48.chunk.js.map": "/cinema/static/js/2.827c1f48.chunk.js.map",
+  "index.html": "/cinema/index.html",
+  "precache-manifest.7018a2723c5bcf8ffe9b1c3a2b60dafa.js": "/cinema/precache-manifest.7018a2723c5bcf8ffe9b1c3a2b60dafa.js",
+  "service-worker.js": "/cinema/service-worker.js",
+  "static/css/main.b50da3af.chunk.css.map": "/cinema/static/css/main.b50da3af.chunk.css.map"
+}
