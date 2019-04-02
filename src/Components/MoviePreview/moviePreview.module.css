@@ -1,0 +1,35 @@
+.item {
+    flex-basis: 22%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    transition-duration: .5s;
+}
+
+
+.item:hover  {
+    transform: translate(-10px, -10px);
+}
+
+.title {
+    font-family: "Open Sans", sans-serif;
+    width: 100%;
+    height: auto;
+    color: #ffffff;
+    display: inline-block;
+    align-self: flex-end;
+}
+
+.image {
+    font-family: "Open Sans", sans-serif;
+    display: inline-block;
+    width: 100%;
+    align-self: flex-start;
+}
+
+.genre {
+    font-family: "Open Sans", sans-serif;
+    width: 100%;
+    align-self: flex-end;
+    color: #F1FF40;
+}

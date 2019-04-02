@@ -1,0 +1,21 @@
+.main {
+    background-color: #5873ff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.image {
+    flex-basis: 45%;
+}
+
+.info {
+    flex-basis: 45%;
+}
+
+.text {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    margin: 10px 0;
+    color: white;
+}

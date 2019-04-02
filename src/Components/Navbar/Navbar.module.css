@@ -1,0 +1,12 @@
+.main {
+    background-color: #5873ff;
+    padding-bottom: 40px;
+}
+
+.text {
+    font-family: "Open Sans", sans-serif;
+    font-size: 30px;
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
